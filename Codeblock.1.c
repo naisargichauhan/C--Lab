@@ -1,3 +1,4 @@
+//Add two numbers 
 #include<stdio.h>
 int main()
 {
@@ -11,3 +12,4 @@ sum= a+b;
 printf("The sum of two numbers is:%d\n", sum);
 return 0;
 }
+
